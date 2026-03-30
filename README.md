@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Customer Success Manager, I focus on understanding customer needs, improving onboarding and focus on ensuring product adoption & retention. I also worked as a product design intern before that. My combined background helps me to see the product from both sides: how it is built and how it is experienced.
+I am a Customer Success Manager, focus on understanding customer needs, improving onboarding and focus on ensuring product adoption & retention. I also worked as a product design intern before that. My combined background helps me to see the product from both sides: how it is built and how it is experienced.
 
 Recently, I’ve been diving into data — learning how to gather, analyze, and visualize information to take business decisions.
 
